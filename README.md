@@ -35,7 +35,7 @@ business insights.
 | 📊 Visualization | Designed interactive dashboard with Department & Job Level filters |
 
 ## 📸 Dashboard Preview
-![HR Attrition Dashboard](dashboard.png)
+Recording 2026-03-15 012823.mp4
 
 ## 🔍 Dashboard Features
 - Filter by **Department** (HR, R&D, Sales) and **Job Level**
